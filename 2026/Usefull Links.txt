@@ -1,0 +1,3 @@
+Genetic Algoorithm Class
+
+https://colab.research.google.com/drive/1PH31fp4PV4TfNPJREa-3s0EsmUc36Ev0?usp=sharing
