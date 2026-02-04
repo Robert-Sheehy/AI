@@ -1,3 +1,7 @@
 Genetic Algoorithm Class
 
 https://colab.research.google.com/drive/1PH31fp4PV4TfNPJREa-3s0EsmUc36Ev0?usp=sharing
+
+Tic Tac Toe
+
+https://colab.research.google.com/drive/111Kq8yMrGPyx2OK4rblLECkG-c4nerx6?usp=sharing
