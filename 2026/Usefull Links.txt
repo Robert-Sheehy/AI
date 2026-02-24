@@ -5,3 +5,11 @@ https://colab.research.google.com/drive/1PH31fp4PV4TfNPJREa-3s0EsmUc36Ev0?usp=sh
 Tic Tac Toe
 
 https://colab.research.google.com/drive/111Kq8yMrGPyx2OK4rblLECkG-c4nerx6?usp=sharing
+
+Iris Neural Nets
+2026
+https://colab.research.google.com/drive/1G3Fj8Lh45sm5vp37DYb0iDpcAD6o1qYU?usp=sharing
+2025
+https://colab.research.google.com/drive/1_4utnuEm_8Kh75iHuzE0tU9Uq54lHS6r?usp=sharing
+
+
