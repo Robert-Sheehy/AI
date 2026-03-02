@@ -12,4 +12,7 @@ https://colab.research.google.com/drive/1G3Fj8Lh45sm5vp37DYb0iDpcAD6o1qYU?usp=sh
 2025
 https://colab.research.google.com/drive/1_4utnuEm_8Kh75iHuzE0tU9Uq54lHS6r?usp=sharing
 
+CNN (Mnist)
+2026
+https://colab.research.google.com/drive/17sL-vwlDXOh9MabG3ZIKyAOVAuk0tz_l?usp=sharing
 
