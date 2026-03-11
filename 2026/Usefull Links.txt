@@ -6,7 +6,7 @@ Tic Tac Toe
 
 https://colab.research.google.com/drive/111Kq8yMrGPyx2OK4rblLECkG-c4nerx6?usp=sharing
 
-Iris Neural Nets
+Iris Neural Nets with PCA used for visualisation
 2026
 https://colab.research.google.com/drive/1G3Fj8Lh45sm5vp37DYb0iDpcAD6o1qYU?usp=sharing
 2025
@@ -16,3 +16,14 @@ CNN (Mnist)
 2026
 https://colab.research.google.com/drive/17sL-vwlDXOh9MabG3ZIKyAOVAuk0tz_l?usp=sharing
 
+PCA with Mnist, feature reduction with transform and inverse transform examples
+2026
+https://colab.research.google.com/drive/1Qsr6rCEZNrHL2cvN2xfx199NHkyLZsJa?usp=sharing
+
+Kfold on Iris dataset, uusinng 80:20 and training a Support Vector Classifier
+
+https://colab.research.google.com/drive/1sYt1qxYi1ZLLoTPagCYTOm0wFB4P8bkY?usp=sharing
+
+Scikit Cheat Sheet for estimator selection
+
+https://scikit-learn.org/stable/machine_learning_map.html
